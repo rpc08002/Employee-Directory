@@ -1,0 +1,20 @@
+{
+  "name": "Employee-Directory",
+  "version": "1.0.0",
+  "description": "This React application renders a table of employees generated using a third party API, \"Random User API.\"  The application is broken into components to manage component state and respond to user events.  As an employee or manager, you can quickly filter employees by name to view non-sensitive data about your team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpc08002/Employee-Directory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpc08002/Employee-Directory/issues"
+  },
+  "homepage": "https://github.com/rpc08002/Employee-Directory#readme"
+}
