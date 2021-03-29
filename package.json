@@ -1,28 +1,38 @@
 {
-  "name": "Employee-Directory",
-  "version": "1.0.0",
-  "description": "This React application renders a table of employees generated using a third party API, \"Random User API.\"  The application is broken into components to manage component state and respond to user events.  As an employee or manager, you can quickly filter employees by name to view non-sensitive data about your team.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rpc08002/Employee-Directory.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rpc08002/Employee-Directory/issues"
-  },
-  "homepage": "https://github.com/rpc08002/Employee-Directory#readme",
+  "name": "employee-directory",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
-    "axios": "^0.21.1",
-    "bootstrap": "^4.6.0",
+    "@testing-library/jest-dom": "^5.11.10",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.8.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-moment": "^1.1.1",
-    "react-scripts": "^4.0.3"
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
