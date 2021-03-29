@@ -11,7 +11,7 @@ export default class SearchBar extends React.Component {
             onChange={this.props.handleInputChange}
           ></input>
 
-          <button>Search</button>
+          <button className="submit">Search</button>
         </form>
       </div>
     );
