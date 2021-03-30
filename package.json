@@ -1,6 +1,6 @@
 {
   "name": "employee-directory",
-  "homepage": "https://rpc08002.github.io/Employee-Directory/",
+  "homepage": "https://rpc08002.github.io/Employee-Directory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
