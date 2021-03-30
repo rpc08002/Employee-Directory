@@ -17,11 +17,11 @@
 ## Usage
 As a user, you will be able to view your entire employee directory at once so you have quick access to their information.
 
-[Github Repository]()
+[Github Repository](https://github.com/rpc08002/Employee-Directory)
 
 [Live URL]()
 
-![Website GIF]()
+![Website GIF](src/util/ReactGIF.gif)
 
 ## License
 
